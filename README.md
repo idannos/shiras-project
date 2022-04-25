@@ -2,7 +2,7 @@
 **sending image to server from website**
 
 
-- you can edit the data that going back to the client (in your case, returning the output of your algorithm). 
+- you can edit the data thats going back to the client (in your case, returning the output of your algorithm). 
 
 - you can lower the image quality for sending bigger images (from the user before sending).
 
