@@ -11,4 +11,4 @@
 copy the server.py and index.html to the same pycharm project -> than run the server, if needed give permissions etc -> open chrome browser -> type 127.0.0.1 in the url area. now you sould connect to the server and receive the website. than insert small (!!!) image and test if it sent to the server (wait for about 10 seconds before checking), it should appear in the pycharm project folder. I recommend starting with little paint draw for testing. If you want I can help with sending bigger images. 
 
 
-*this is pretty architecture (wrote it fast from what I remember), but it works for small images. I guess this fits for your school project.*
+*this is pretty bad architecture (wrote it fast from what I remember), but it works for small images. I guess this fits for your school project.*
